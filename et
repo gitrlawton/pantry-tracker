@@ -1,0 +1,29 @@
+[33mcommit 21c8aafed64cc1d0e6e02391f60e91b6eadec1fb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Neal L <rlawton.cs@gmail.com>
+Date:   Sun Aug 4 23:41:18 2024 -0700
+
+    Added recipe suggestion component using OpenAI's GPT-4 API.
+
+[33mcommit bc0245c652784290ab0d666049ea284a26b04f47[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Neal L <rlawton.cs@gmail.com>
+Date:   Thu Aug 1 20:20:14 2024 -0700
+
+    Updated dependencies.
+
+[33mcommit f1a8daa782ef57bc6b5664130bc427c8f10b672b[m
+Author: Neal L <rlawton.cs@gmail.com>
+Date:   Thu Aug 1 11:39:43 2024 -0700
+
+    Finished base design with button to add and remove items.
+
+[33mcommit 243edb17040f736802afbdfa072cfa76abdab15a[m
+Author: Neal L <rlawton.cs@gmail.com>
+Date:   Tue Jul 30 21:22:50 2024 -0700
+
+    Added firebase firestore connection. Wrote functions to manage inventory state.
+
+[33mcommit 8d260dc5181570eaeaec0ea2738d3120076b5775[m
+Author: Neal L <rlawton.cs@gmail.com>
+Date:   Mon Jul 29 23:58:55 2024 -0700
+
+    Initial commit.

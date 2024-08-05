@@ -1,0 +1,24 @@
+.container {
+    width: 40%; /* Ensure the container has a consistent width */
+    margin: 0 auto; /* Center the container */
+  }
+  
+  .headerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px; 
+    width: 100%; 
+    box-sizing: border-box; 
+  }
+  
+  .recipeContainer {
+    max-height: 300px; 
+    overflow-y: auto; 
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    width: 100%; 
+    box-sizing: border-box; 
+  }
